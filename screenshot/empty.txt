@@ -1,1 +1,3 @@
-
+git rm empty.txt
+git commit -m "Delete empty.txt file"
+git push
